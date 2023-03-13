@@ -1,3 +1,4 @@
+LOCAL
 # conflict-test
 bonsoir
 !!!!!
