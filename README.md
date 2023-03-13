@@ -1,3 +1,4 @@
+REMOTE
 # conflict-test
 bonsoir
 !!!!!
